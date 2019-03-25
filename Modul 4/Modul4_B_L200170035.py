@@ -1,7 +1,7 @@
 #Nama  : Malvin Iqbal Firdaus
 #Nim   : L200170035
 #Kelas : B
-#Modul : 35
+#Modul : 4
 
 class Mahasiswa(object):
     """Class Manusia yang dibangun dari class manusia"""
